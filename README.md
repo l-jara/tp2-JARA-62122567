@@ -2,7 +2,7 @@
 
 - **Asignatura:** Automatización y Scripting
 - **Estudiante:** Leonela Jara
-- **Legajo:** 62122567
+- **Legajo:** 6212
 
 ---
 
